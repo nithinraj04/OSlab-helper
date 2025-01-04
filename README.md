@@ -13,4 +13,4 @@ chmod +x install.sh
 ./install.sh
 ```
 
-Note the creator is not responsible for any damage that may incur due to usage of this script/application 😁.
+Note that the creator of this script/application is not responsible for any damage that may incur due to usage of this script/application 😁.
